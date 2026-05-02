@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+     "experiments": {
+  "baseUrl": "/expo-todo-list/"
+     },
+  "homepage": "https://devikar07.github.io/expo-todo-list/"
   }
 }
+
+
