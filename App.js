@@ -76,7 +76,6 @@ export default function App() {
   );
 }
 
-// 🎨 Styles (girly pink theme)
 const styles = StyleSheet.create({
   container: {
     flex: 1,
